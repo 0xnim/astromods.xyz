@@ -14,6 +14,7 @@ class App extends React.Component {
           </div>
           <div className="nav">
             <a href="https://portal.astromods.xyz">PORTAL</a>
+            <a href="https://stats.uptimerobot.com/Z9E0KS7Wmr">STATUS</a>
           </div>
           <div className="social">
             {/*

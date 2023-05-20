@@ -145,3 +145,7 @@ img {
 a.underlined:hover {
   border-bottom: 1px dotted #fff;
 }
+
+.nav a {
+  margin-left: 24px;
+}
